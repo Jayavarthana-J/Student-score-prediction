@@ -24,11 +24,15 @@ predicts their expected **exam score** using Linear Regression.
 ## 📂 Project Structure
 
 student-score-prediction/
-  ├── data/
-  │ └── student_scores.csv
-  ├── hello.py
-  ├── day2_python_basics.py
-  ├── day3_numpy_basics.py
+├── data/
+
+│ └── student_scores.csv
+  
+├── hello.py
+  
+├── day2_python_basics.py
+
+├── day3_numpy_basics.py
 
 ├── day4_pandas_basics.py
 
