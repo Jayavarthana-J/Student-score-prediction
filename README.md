@@ -65,6 +65,10 @@ student-score-prediction/
    python hello.py
 ```
 
+```bash
+   python hello.py
+```
+
 ## 👤 Author
 Jayavarthana J — AI & ML Intern at Codomax Digital Solutions
 
