@@ -24,6 +24,7 @@ predicts their expected **exam score** using Linear Regression.
 ## 📂 Project Structure
 
 student-score-prediction/
+
 ├── data/
 
 │ └── student_scores.csv
