@@ -66,7 +66,7 @@ student-score-prediction/
 ```
 
 ```bash
-   python hello.py
+   python day2_python_basics.py
 ```
 
 ## 👤 Author
