@@ -44,10 +44,15 @@ student-score-prediction/
 └── .gitignore
 
 ## ✅ Progress Log
-- **Day 1** — Set up Python, VS Code, Jupyter Notebook, and Git. 
+- **Day 1/15** — Set up Python, VS Code, Jupyter Notebook, and Git. 
   Created this GitHub repository and ran the first Python script.
-- **Day 2** — *(coming soon)*
-- **Day 3** — *(coming soon)*
+- **Day 2/15** — Learned Python fundamentals: variables, data types, 
+  operators, loops, and functions. Wrote `day2_python_basics.py`, 
+  covering arithmetic/logical operators, `for`/`while` loops, a 
+  reusable `calculate_average()` function, a naive score-prediction 
+  placeholder function, and a simple grading mini-program that 
+  classifies scores into letter grades.
+- **Day 3/15** — *(coming soon)*
 
 ## 🚀 How to Run
 1. Clone this repository:
