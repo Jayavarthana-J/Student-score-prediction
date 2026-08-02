@@ -26,13 +26,21 @@ predicts their expected **exam score** using Linear Regression.
 student-score-prediction/
 
 ├── data/
+
 │ └── student_scores.csv
+
 ├── hello.py
+
 ├── day2_python_basics.py
+
 ├── day3_numpy_basics.py
+
 ├── day4_pandas_basics.py
+
 ├── day5_data_cleaning.py
+
 ├── README.md
+
 └── .gitignore
 
 ## ✅ Progress Log
