@@ -1,5 +1,4 @@
 # Day 2 - Python Basics
-# AI & ML Internship - Codomax Digital Solutions
 
 # ---- Variables & data types ----
 name = "Alice"          # string
